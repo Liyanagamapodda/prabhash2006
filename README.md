@@ -19,6 +19,9 @@
 <a href="https://github.com/prabhasha2006"><img src="https://img.shields.io/badge/-GitHub-blue?style=flat-cirlce&logo=github" width="101"/> 
 </p>
 
+<!--For adding Gif
+<p><img align="right" alt="GIF" src="https://github.com/prabhasha2006/prabhash2006/git.gif" width="500" height="350" /></p>-->
+
 <p align="center">
 <gif src="https://telegra.ph/file/0c9ccca45d7fe7744792d.gif" alt="nz" width="350"/>
 </p>
